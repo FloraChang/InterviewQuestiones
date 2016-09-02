@@ -8,7 +8,7 @@ def solution( K, L, M, N, P, Q, R, S ):
         return -1
 
     # area is bigger than the threshold, return -1
-    if area > 2147483648:
+    if area > 2147483647:
         return -1
 
     return area
