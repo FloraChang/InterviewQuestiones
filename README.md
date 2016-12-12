@@ -25,3 +25,6 @@
 
 **C4**
 - AsymmetryIndex.cpp
+
+**S3**
+- Sum.cpp
